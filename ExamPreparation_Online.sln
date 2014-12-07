@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem01_Fit_in_Box_With_M
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem02_Odd_and_Even_Jumps", "Problem02_Odd_and_Even_Jumps\Problem02_Odd_and_Even_Jumps.csproj", "{3E8C440A-F170-4E9A-877E-893CD70EC73C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem03_Panda_Scotland_Flag", "Problem02_Panda_Scotland_Flag\Problem03_Panda_Scotland_Flag.csproj", "{EC2A8012-DF37-4DD8-8B90-48F423A3EA8F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem03_Panda_Scotland_Flag", "Problem03_Panda_Scotland_Flag\Problem03_Panda_Scotland_Flag.csproj", "{EC2A8012-DF37-4DD8-8B90-48F423A3EA8F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem04_Morse_Code_Numbers", "Problem04_Morse_Code_Numbers\Problem04_Morse_Code_Numbers.csproj", "{9344AFAF-CE44-4D68-A56C-FB34986AC48F}"
 EndProject
