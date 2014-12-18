@@ -3,4 +3,3 @@ c:\users\bi0game\documents\visual studio 2013\Projects\ExamPreparation_Online\Pr
 c:\users\bi0game\documents\visual studio 2013\Projects\ExamPreparation_Online\Problem05_Bit_Paths_Matrix\bin\Debug\Problem05_Bit_Paths_Matrix.pdb
 c:\users\bi0game\documents\visual studio 2013\Projects\ExamPreparation_Online\Problem05_Bit_Paths_Matrix\obj\Debug\Problem05_Bit_Paths_Matrix.exe
 c:\users\bi0game\documents\visual studio 2013\Projects\ExamPreparation_Online\Problem05_Bit_Paths_Matrix\obj\Debug\Problem05_Bit_Paths_Matrix.pdb
-C:\Users\Bi0GaMe\Documents\Visual Studio 2013\Projects\ExamPreparation_Online\Problem05_Bit_Paths_Matrix\obj\Debug\Problem05_Bit_Paths_Matrix.csprojResolveAssemblyReference.cache
