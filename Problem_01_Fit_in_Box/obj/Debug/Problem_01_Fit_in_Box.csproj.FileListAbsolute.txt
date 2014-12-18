@@ -1,6 +1,0 @@
-c:\users\bi0game\documents\visual studio 2013\Projects\ExamPreparation_Online\Problem_01_Fit_in_Box\bin\Debug\Problem_01_Fit_in_Box.exe.config
-c:\users\bi0game\documents\visual studio 2013\Projects\ExamPreparation_Online\Problem_01_Fit_in_Box\bin\Debug\Problem_01_Fit_in_Box.exe
-c:\users\bi0game\documents\visual studio 2013\Projects\ExamPreparation_Online\Problem_01_Fit_in_Box\bin\Debug\Problem_01_Fit_in_Box.pdb
-c:\users\bi0game\documents\visual studio 2013\Projects\ExamPreparation_Online\Problem_01_Fit_in_Box\obj\Debug\Problem_01_Fit_in_Box.csprojResolveAssemblyReference.cache
-c:\users\bi0game\documents\visual studio 2013\Projects\ExamPreparation_Online\Problem_01_Fit_in_Box\obj\Debug\Problem_01_Fit_in_Box.exe
-c:\users\bi0game\documents\visual studio 2013\Projects\ExamPreparation_Online\Problem_01_Fit_in_Box\obj\Debug\Problem_01_Fit_in_Box.pdb
