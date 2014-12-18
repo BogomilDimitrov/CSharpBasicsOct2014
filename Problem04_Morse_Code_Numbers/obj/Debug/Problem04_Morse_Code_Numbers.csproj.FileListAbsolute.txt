@@ -1,6 +1,0 @@
-c:\users\bi0game\documents\visual studio 2013\Projects\ExamPreparation_Online\Problem04_Morse_Code_Numbers\bin\Debug\Problem04_Morse_Code_Numbers.exe.config
-c:\users\bi0game\documents\visual studio 2013\Projects\ExamPreparation_Online\Problem04_Morse_Code_Numbers\bin\Debug\Problem04_Morse_Code_Numbers.exe
-c:\users\bi0game\documents\visual studio 2013\Projects\ExamPreparation_Online\Problem04_Morse_Code_Numbers\bin\Debug\Problem04_Morse_Code_Numbers.pdb
-c:\users\bi0game\documents\visual studio 2013\Projects\ExamPreparation_Online\Problem04_Morse_Code_Numbers\obj\Debug\Problem04_Morse_Code_Numbers.csprojResolveAssemblyReference.cache
-c:\users\bi0game\documents\visual studio 2013\Projects\ExamPreparation_Online\Problem04_Morse_Code_Numbers\obj\Debug\Problem04_Morse_Code_Numbers.exe
-c:\users\bi0game\documents\visual studio 2013\Projects\ExamPreparation_Online\Problem04_Morse_Code_Numbers\obj\Debug\Problem04_Morse_Code_Numbers.pdb

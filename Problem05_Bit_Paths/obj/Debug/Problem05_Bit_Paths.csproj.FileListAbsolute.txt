@@ -1,6 +1,0 @@
-c:\users\bi0game\documents\visual studio 2013\Projects\ExamPreparation_Online\Problem05_Bit_Paths\bin\Debug\Problem05_Bit_Paths.exe.config
-c:\users\bi0game\documents\visual studio 2013\Projects\ExamPreparation_Online\Problem05_Bit_Paths\bin\Debug\Problem05_Bit_Paths.exe
-c:\users\bi0game\documents\visual studio 2013\Projects\ExamPreparation_Online\Problem05_Bit_Paths\bin\Debug\Problem05_Bit_Paths.pdb
-c:\users\bi0game\documents\visual studio 2013\Projects\ExamPreparation_Online\Problem05_Bit_Paths\obj\Debug\Problem05_Bit_Paths.csprojResolveAssemblyReference.cache
-c:\users\bi0game\documents\visual studio 2013\Projects\ExamPreparation_Online\Problem05_Bit_Paths\obj\Debug\Problem05_Bit_Paths.exe
-c:\users\bi0game\documents\visual studio 2013\Projects\ExamPreparation_Online\Problem05_Bit_Paths\obj\Debug\Problem05_Bit_Paths.pdb
