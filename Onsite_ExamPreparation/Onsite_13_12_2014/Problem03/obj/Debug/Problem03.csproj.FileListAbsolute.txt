@@ -1,0 +1,3 @@
+C:\Users\Bi0GaMe\Documents\Visual Studio 2013\Projects\ConsoleApplication1\Problem02\bin\Debug\Problem02.exe.config
+C:\Users\Bi0GaMe\Documents\Visual Studio 2013\Projects\ConsoleApplication1\Problem02\obj\Debug\Problem02.exe
+C:\Users\Bi0GaMe\Documents\Visual Studio 2013\Projects\ConsoleApplication1\Problem02\obj\Debug\Problem02.pdb

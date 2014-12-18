@@ -1,0 +1,6 @@
+c:\users\bi0game\documents\visual studio 2013\Projects\ExamPreparation_Online\Problem02_Odd_and_Even_Jumps\bin\Debug\Problem02_Odd_and_Even_Jumps.exe.config
+c:\users\bi0game\documents\visual studio 2013\Projects\ExamPreparation_Online\Problem02_Odd_and_Even_Jumps\bin\Debug\Problem02_Odd_and_Even_Jumps.exe
+c:\users\bi0game\documents\visual studio 2013\Projects\ExamPreparation_Online\Problem02_Odd_and_Even_Jumps\bin\Debug\Problem02_Odd_and_Even_Jumps.pdb
+c:\users\bi0game\documents\visual studio 2013\Projects\ExamPreparation_Online\Problem02_Odd_and_Even_Jumps\obj\Debug\Problem02_Odd_and_Even_Jumps.exe
+c:\users\bi0game\documents\visual studio 2013\Projects\ExamPreparation_Online\Problem02_Odd_and_Even_Jumps\obj\Debug\Problem02_Odd_and_Even_Jumps.pdb
+c:\users\bi0game\documents\visual studio 2013\Projects\ExamPreparation_Online\Problem02_Odd_and_Even_Jumps\obj\Debug\Problem02_Odd_and_Even_Jumps.csprojResolveAssemblyReference.cache

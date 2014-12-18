@@ -1,0 +1,5 @@
+c:\users\bi0game\documents\visual studio 2013\Projects\ExamPreparation_Online\Problem02_Panda_Scotland_Flag\bin\Debug\Problem02_Panda_Scotland_Flag.exe.config
+c:\users\bi0game\documents\visual studio 2013\Projects\ExamPreparation_Online\Problem02_Panda_Scotland_Flag\bin\Debug\Problem02_Panda_Scotland_Flag.exe
+c:\users\bi0game\documents\visual studio 2013\Projects\ExamPreparation_Online\Problem02_Panda_Scotland_Flag\bin\Debug\Problem02_Panda_Scotland_Flag.pdb
+c:\users\bi0game\documents\visual studio 2013\Projects\ExamPreparation_Online\Problem02_Panda_Scotland_Flag\obj\Debug\Problem02_Panda_Scotland_Flag.exe
+c:\users\bi0game\documents\visual studio 2013\Projects\ExamPreparation_Online\Problem02_Panda_Scotland_Flag\obj\Debug\Problem02_Panda_Scotland_Flag.pdb

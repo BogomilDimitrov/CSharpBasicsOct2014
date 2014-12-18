@@ -1,0 +1,6 @@
+c:\Users\Bi0GaMe\documents\visual studio 2013\Projects\ConsoleApplication1\BitShooter\bin\Debug\BitShooter.exe.config
+c:\Users\Bi0GaMe\documents\visual studio 2013\Projects\ConsoleApplication1\BitShooter\bin\Debug\BitShooter.exe
+c:\Users\Bi0GaMe\documents\visual studio 2013\Projects\ConsoleApplication1\BitShooter\bin\Debug\BitShooter.pdb
+c:\Users\Bi0GaMe\documents\visual studio 2013\Projects\ConsoleApplication1\BitShooter\obj\Debug\BitShooter.exe
+c:\Users\Bi0GaMe\documents\visual studio 2013\Projects\ConsoleApplication1\BitShooter\obj\Debug\BitShooter.pdb
+c:\Users\Bi0GaMe\documents\visual studio 2013\Projects\ConsoleApplication1\BitShooter\obj\Debug\BitShooter.csprojResolveAssemblyReference.cache

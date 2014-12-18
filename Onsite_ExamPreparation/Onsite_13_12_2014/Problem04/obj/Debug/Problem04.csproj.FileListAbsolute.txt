@@ -1,0 +1,3 @@
+C:\Users\Bi0GaMe\Documents\Visual Studio 2013\Projects\ConsoleApplication1\Problem04\bin\Debug\MagicDates.exe.config
+C:\Users\Bi0GaMe\Documents\Visual Studio 2013\Projects\ConsoleApplication1\Problem04\obj\Debug\MagicDates.exe
+C:\Users\Bi0GaMe\Documents\Visual Studio 2013\Projects\ConsoleApplication1\Problem04\obj\Debug\MagicDates.pdb

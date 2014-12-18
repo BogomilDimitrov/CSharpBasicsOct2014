@@ -1,0 +1,6 @@
+c:\Users\Bi0GaMe\documents\visual studio 2013\Projects\ConsoleApplication1\Problem02\bin\Debug\Problem02.exe.config
+c:\Users\Bi0GaMe\documents\visual studio 2013\Projects\ConsoleApplication1\Problem02\bin\Debug\Problem02.exe
+c:\Users\Bi0GaMe\documents\visual studio 2013\Projects\ConsoleApplication1\Problem02\bin\Debug\Problem02.pdb
+c:\Users\Bi0GaMe\documents\visual studio 2013\Projects\ConsoleApplication1\Problem02\obj\Debug\Problem02.csprojResolveAssemblyReference.cache
+c:\Users\Bi0GaMe\documents\visual studio 2013\Projects\ConsoleApplication1\Problem02\obj\Debug\Problem02.exe
+c:\Users\Bi0GaMe\documents\visual studio 2013\Projects\ConsoleApplication1\Problem02\obj\Debug\Problem02.pdb

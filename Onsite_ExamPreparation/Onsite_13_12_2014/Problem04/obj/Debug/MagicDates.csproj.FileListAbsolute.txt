@@ -1,0 +1,6 @@
+c:\Users\Bi0GaMe\documents\visual studio 2013\Projects\ConsoleApplication1\MagicDates\bin\Debug\MagicDates.exe.config
+c:\Users\Bi0GaMe\documents\visual studio 2013\Projects\ConsoleApplication1\MagicDates\bin\Debug\MagicDates.exe
+c:\Users\Bi0GaMe\documents\visual studio 2013\Projects\ConsoleApplication1\MagicDates\bin\Debug\MagicDates.pdb
+c:\Users\Bi0GaMe\documents\visual studio 2013\Projects\ConsoleApplication1\MagicDates\obj\Debug\MagicDates.csprojResolveAssemblyReference.cache
+c:\Users\Bi0GaMe\documents\visual studio 2013\Projects\ConsoleApplication1\MagicDates\obj\Debug\MagicDates.exe
+c:\Users\Bi0GaMe\documents\visual studio 2013\Projects\ConsoleApplication1\MagicDates\obj\Debug\MagicDates.pdb
